@@ -11,3 +11,6 @@ chunk1.securityrabbits.com
 
 This project is intended for educational, research, and red-team use only.
 Do not use in any unauthorized environment. Misuse of this technique may violate laws or terms of service.
+
+<img width="642" height="527" alt="image" src="https://github.com/user-attachments/assets/b13af86f-c82b-4be6-bf00-980c1cb3d2de" />
+
